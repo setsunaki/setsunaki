@@ -15,6 +15,6 @@ Skills: <p align="left"> <a href="https://angular.io" target="_blank" rel="noref
 <a href="https://linkedin.com/in/wladimir-burgos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wladimir-burgos" height="30" width="40" /></a>
 <a href="https://instagram.com/setsunaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="setsunaky" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frsty&show_icons=true&locale=en&layout=compact" alt="frsty" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=setsunaki&show_icons=true&locale=en&layout=compact" alt="setsunaki" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=frsty)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=setsunaki)  
