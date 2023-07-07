@@ -1,4 +1,4 @@
-![I am a full stack web developer](https://github.com/frsty/frsty/blob/main/lesbaa8cdfhy794wp41a.gif)
+![I am a full stack web developer](https://github.com/setsunaki/setsunaki/blob/main/lesbaa8cdfhy794wp41a.gif)
 ### Hi there 👋, I'm wladimir
 #### I am a full stack web developer
 
